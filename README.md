@@ -1,0 +1,2 @@
+# HlySdkCocoapodsTest
+尝试将本地sdk用cocoapods管理
